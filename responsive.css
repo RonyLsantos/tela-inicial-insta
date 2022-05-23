@@ -1,0 +1,6 @@
+@media screen and (min-width:670px) {
+    .group {
+        display: flex;
+        flex-direction: column;
+    }
+}
