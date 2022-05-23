@@ -1,6 +1,6 @@
 # tela-inicial-insta
 
-Esse prjeto foi realizado para fins de estudo no bootcamp da DIO
+Esse projeto foi realizado para fins de estudo no bootcamp da DIO
 
 ## Nesse projeto usei:
 HTML5 e CSS3 
